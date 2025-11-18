@@ -4,7 +4,7 @@
 
 The **Full Stack Project Management System** is a web-based platform designed to help individuals and teams effectively plan, track, and manage projects of all sizes. Built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery**, **PHP**, and **MySQL**, this system provides a comprehensive solution for organizing projects, managing teams, and monitoring progress. It enables project managers and administrators to view, update, and maintain project details, track employee tasks, and ensure that projects stay on schedule.
 
-Check the working of the project here: [Project Demo](https://bit.ly/44KpAO3)
+
 
 ## 🚀 **Features**
 
@@ -39,35 +39,5 @@ Check the working of the project here: [Project Demo](https://bit.ly/44KpAO3)
 * **🧑‍💼 Project Managers:**  Who need to track and manage multiple projects and teams effectively.  
 * **👨‍💻 Team Leads/Employees:**  Individuals who need a clear view of ongoing projects, deadlines, and assigned tasks.  
 * **🖥️ Organizations/Enterprises:**  Looking for a platform to organize their projects, track progress, and maintain project data efficiently.  
-* **🌍 Anyone:**  Who wants to streamline project management processes and improve team collaboration.  
 
-## ⚙️ **How to Run**
 
-1. **📂 Clone the repository:**  
-   `git clone <repository_url>`
-
-2. **🖥️ Navigate to the directory:**  
-   `cd Project_Management_System`
-
-3. **🗄️ Set up the database:**  
-   Create a MySQL database and import the provided SQL file to set up the necessary tables.
-
-4. **⚙️ Configure the PHP files:**  
-   Update the database connection details in the PHP files (usually in `config.php`).
-
-5. **🚀 Install the required server:**  
-   Ensure you have a local or remote server (e.g., XAMPP, WAMP) to run PHP files.
-
-6. **🌐 Start the server:**  
-   Launch the server and open the application in your browser at `http://localhost/<your_project_directory>`.
-
-7. **👍 Use the system:**  
-   Admins can log in, manage users and projects, and track project progress!
-
----
-
-With this system, project management becomes streamlined, and users can manage tasks, teams, and deadlines with ease. 🌟
-
-Username: User
-
-Password: Password
